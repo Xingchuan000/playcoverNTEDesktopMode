@@ -1,0 +1,14 @@
+{
+  "version": "0.5.5",
+  "channel": "release",
+  "based_on": "0.5.5-indirect.1",
+  "based_on_sha256": "ffd70bad7152bd2046ac112188b29c2e12a50a0e0d9d011e026b74748b2c43f6",
+  "map_drag_fix_confirmed_by_user": true,
+  "plugin_logging_default": false,
+  "logging_source_preserved": true,
+  "game_installed_or_launched": false,
+  "sha256": "138b05fe1ca338ce639441f13386733a2c9c2c7589efdba9e4b2e04f4cc5e8ac",
+  "signature_verified": true,
+  "file_logging_imports_absent": true,
+  "functional_source_headers_unchanged": true
+}
