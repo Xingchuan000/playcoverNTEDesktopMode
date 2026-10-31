@@ -8,8 +8,6 @@
 
 只需要下载libNTEDesktopMode.dylib文件，同时安装最新版Playcover。选择异环设置-杂项-添加插件-选择下载的dylib文件，同时关闭所有Playcover键盘映射。然后进去游戏即可使用桌面版键鼠操作。
 
-<img src="/Users/x1ngchuan/Desktop/Screenshot 2026-10-31 at 11.03.41 PM.png" alt="Screenshot 2026-10-31 at 11.03.41 PM" style="zoom: 33%;" /><img src="/Users/x1ngchuan/Desktop/Screenshot 2026-10-31 at 11.06.00 PM.png" alt="Screenshot 2026-10-31 at 11.06.00 PM" style="zoom:33%;" />
-
 ## 开发文档
 
 完整设计见 [原理与维护指南](../playcoverNTEDesktopMode/NTEDesktopMode：原理与维护指南（ 0.5.5 正式版）.md)。
