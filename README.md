@@ -12,7 +12,7 @@
 
 ## 开发文档
 
-完整设计见 [原理与维护指南](../NTEDesktopMode/README.md)。
+完整设计见 [原理与维护指南](../playcoverNTEDesktopMode/NTEDesktopMode：原理与维护指南（ 0.5.5 正式版）.md)。
 
 ## 构建与调试
 
