@@ -1,0 +1,17 @@
+{
+  "version": "0.6.2",
+  "channel": "release",
+  "date": "2026-11-07",
+  "sha256": "56955c6a3d0417aee1183369a3743a8970381d08b39e9e39b8ae0b3b1a211139",
+  "logging_enabled": false,
+  "uuid_allowlist": false,
+  "game_version_allowlist": false,
+  "fixed_game_instruction_addresses": false,
+  "inline_route_hooks": 0,
+  "game_installed_or_launched": false,
+  "initialization_order_regression_fixed": true,
+  "indirect_input_readiness_gated": false,
+  "indirect_policy_selected_at_startup": true,
+  "manual_touch_filter": false,
+  "release_wraps_hardware_callbacks": false
+}
