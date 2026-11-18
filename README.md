@@ -1,4 +1,4 @@
-# NTEDesktopMode 0.6.6 正式版
+# NTEDesktopMode 0.6.4 正式版
 
 适用于《异环》iOS 1.5.0，通过反射方式加载控制地址，移除了固定的地址映射，在 PlayCover 中启用原生桌面输入。
 
