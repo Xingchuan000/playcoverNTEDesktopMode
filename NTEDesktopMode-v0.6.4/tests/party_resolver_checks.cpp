@@ -1,0 +1,3 @@
+#include "../src/PartyUIResolver.h"
+int main(int argc,char**argv){if(argc!=2)return 2;DynamicGame::Image im;if(!im.openFile(argv[1]))return 3;auto r=PartyUI::Resolve(im);
+printf("uuid=%s party_ready=%d main_cache=%llx slot_cache=%llx panel_cache=%llx pc=%x mobile=%x container=%x current=%x refresh=%llx children=%llx child_at=%llx panel_slots=%x clear_virtual=%x visibility=%llx opacity=%llx signatures=%zu\n",im.uuid.c_str(),r.ready,r.mainCache,r.slotCache,r.panelCache,r.pc,r.mobile,r.container,r.currentSlot,r.refresh,r.childrenCount,r.childAt,r.panelSlots,r.clearVirtual,r.visibility,r.opacity,r.signatures.size());return r.ready?0:1;}

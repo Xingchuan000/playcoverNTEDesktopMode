@@ -1,0 +1,9 @@
+{
+  "party_resolver_identical_to_user_tested_build": true,
+  "core_resolver_identical_to_user_tested_build": true,
+  "party_rebuild_policy_identical_to_user_tested_build": true,
+  "observed_game_addresses_hardcoded_in_production_source": [],
+  "binding": "Current-image reflection names and offsets, Mach-O function starts, instruction shapes and call relations.",
+  "allowlist": "No game-version or UUID allowlist.",
+  "compatibility_limit": "Compiler/engine layout changes may require resolver maintenance; ambiguous or missing party capabilities disable that module."
+}

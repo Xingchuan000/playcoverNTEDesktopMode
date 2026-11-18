@@ -1,0 +1,42 @@
+{
+  "forbidden_imports_present": {
+    "_fopen": false,
+    "_fprintf": false,
+    "_vfprintf": false,
+    "_fflush": false,
+    "_fwrite": false,
+    "_fputc": false,
+    "_backtrace": false,
+    "_backtrace_symbols": false,
+    "_NSLog": false
+  },
+  "diagnostic_markers_present": {
+    "plugin.log": false,
+    "plugin.previous.log": false,
+    "party-ui.log": false,
+    "party-ui.previous.log": false,
+    "party_ui state": false,
+    "party_ui child": false,
+    "party_ui rebuild": false,
+    "party_ui scan": false,
+    "kbd_focus": false,
+    "kbd_stack": false,
+    "kbd_event": false,
+    "makeFirstResponder:": false,
+    "setKeyChangedHandler:": false,
+    "setPressedChangedHandler:": false,
+    "setMouseMovedHandler:": false
+  },
+  "party_resolver_markers_present": {
+    "PCSlotClass": true,
+    "MobileSlotClass": true,
+    "WrapBoxCharacter": true,
+    "ClearChildren": true
+  },
+  "beep_repair_selectors_present": {
+    "sendEvent:": true,
+    "noResponderFor:": true,
+    "keyDown:": true
+  },
+  "release_version_present": true
+}

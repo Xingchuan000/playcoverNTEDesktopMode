@@ -1,0 +1,1 @@
+standalone Catalyst library load passed: /Users/x1ngchuan/Documents/playcover插件/playcover-ios-mac/outputs/NTEDesktopMode-v0.6.4/libNTEDesktopMode.dylib

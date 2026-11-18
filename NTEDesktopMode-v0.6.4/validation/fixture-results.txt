@@ -1,0 +1,25 @@
+/var/folders/6m/t5xlqdcd2y3bkqmwpyg1n2yc0000gn/T/nte-dynamic-tests.0BtB51/platform-fixture.dylib: replacing existing signature
+PASS: 10 class identity/inheritance/read validation cases
+PASS: 26 pointer restoration scope and signature cases
+PASS: 21 mapping decoder and snapshot cases
+PASS: 32 context map and redirect cases
+PASS: 60 key profile decoding, filtering and activation eligibility cases
+PASS: 69 Mac platform checks, including signed file-backed arm64 execution.
+PASS: 47 native UI platform checks, including arm64 signed-code execution.
+PASS: 100 native cursor platform adapter cases
+PASS: 122 native host bridge and absolute coordinate cases
+Standalone host cached indirect policy before repair: 0 (not the game's policy)
+PASS: 50 UIKit indirect policy, cached dispatch and pointer gating cases
+PASS: touch observer opt-out, competing override, idempotence and exact argument forwarding
+PASS: 12 native pointer switch and terminal coordinate cases
+NTEDesktopMode: skipped (bundle mismatch)
+keyboard beep checks passed: 62
+keyboard beep release checks passed: 23
+party UI checks passed: 156
+party release checks passed: 6
+/var/folders/6m/t5xlqdcd2y3bkqmwpyg1n2yc0000gn/T/nte-bootstrap-order.M5axWR/fixed.dylib: replacing existing signature
+/var/folders/6m/t5xlqdcd2y3bkqmwpyg1n2yc0000gn/T/nte-bootstrap-order.M5axWR/legacy.dylib: replacing existing signature
+bootstrap resolved_state_survived=0 expected=0
+bootstrap resolved_state_survived=1 expected=1
+libNTEDesktopMode.dylib: valid on disk
+libNTEDesktopMode.dylib: satisfies its Designated Requirement

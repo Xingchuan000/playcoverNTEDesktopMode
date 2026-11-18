@@ -1,0 +1,2 @@
+libNTEDesktopMode.dylib: replacing existing signature
+libNTEDesktopMode.dylib: Mach-O 64-bit dynamically linked shared library arm64

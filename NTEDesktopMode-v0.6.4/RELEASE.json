@@ -1,0 +1,20 @@
+{
+  "version": "0.6.4",
+  "channel": "release",
+  "date": "2026-11-18",
+  "sha256": "722b54ef06f561e89180f469751f927ef1db257e29719c9e2553a845d1e7f99d",
+  "base_test_version": "0.6.4-test.1",
+  "base_test_binary_sha256": "72b1cdae7f698f906a06782e3c79b8361beae50b6c5f4e66497a9aa71c9625cc",
+  "logging_enabled": false,
+  "party_logging_enabled": false,
+  "keyboard_beep_fix_enabled": true,
+  "party_desktop_ui_fix_enabled": true,
+  "rebuild_existing_list_enabled": true,
+  "dynamic_party_address_resolution": true,
+  "hardcoded_game_instruction_addresses": false,
+  "game_version_allowlist": false,
+  "uuid_allowlist": false,
+  "hardware_callbacks_wrapped": false,
+  "game_installed_or_launched": false,
+  "user_test_feedback": "User confirms 0.6.4-test.1 fixes the missing fourth party entry."
+}

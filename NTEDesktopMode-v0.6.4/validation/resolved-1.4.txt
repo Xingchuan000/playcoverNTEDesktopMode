@@ -1,0 +1,33 @@
+uuid=79d3fd53-950b-3047-884f-4aa4bfb38364 platform=1 objc=1 input=1 profiles=1 reason=resolved
+operation CommonLocked=0x4c69a78
+operation CommonRecalculate=0x4c696d0
+operation CommonSettings=0x4c65c38
+operation CommonSupport=0x4c69504
+operation InputPlatformSettings=0x4c2c944
+operation InputRebuild=0x4c26644
+operation NameDecoder=0x121a254
+operation ObjectArrayAccess=0x4c65e70
+operation PlayerInputGetter=0x4c32650
+operation ProfileSetter=0x4c46b34
+operation UIConsumer=0x98c20a0
+class CommonInputPlatformSettings=0x1006a998
+class CommonInputSubsystem=0x1006a9e8
+class EnhancedInputDeveloperSettings=0x1006a498
+class EnhancedInputLocalPlayerSubsystem=0x1006a538
+class EnhancedInputPlatformData=0x1006a4f0
+class EnhancedInputPlatformSettings=0x1006a508
+class EnhancedInputUserSettings=0x1006a438
+class EnhancedPlayerInput=0x1006a578
+class EnhancedPlayerMappableKeyProfile=0x1006a420
+class HTPlayerController=0x100aecd8
+class InputMappingContext=0x1006a5c8
+class InputSettings=0x10067be0
+class PlayerMappableKeySettings=0x1006a850
+objects=100236b0 names=fd2abd0 settings=4c65c38 support=4c69504 lookup=4c47870 getter=4c46f08 thunk=4c3279c userdata=4c327ac ui=aa0bf34
+cursor=1 table=d3310c8 type_slot=7 show_slot=10 pos_slot=5 type_field=8 show_field=48
+native_type3_filter=1 mouse_for_touch_switch=1 offset=48 mask=4
+query=aa1b164
+query=aa1b16c
+query=aa1b174
+query=aa1b17c
+query=aa1b1f4
